@@ -1,18 +1,99 @@
-# 💫 About Me:
-# 👨‍💻 Adarsh Sharma  <br>### 🚀 AI Developer | Unity Developer | Designer  <br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F79F&center=true&vCenter=true&width=700&lines=AI+%7C+Unity+%7C+Design;Building+Impactful+Tech+Projects;Future+Software+Engineer+%40+Top+Tech;Turning+Ideas+into+Reality" /><br></p><br><br>---<br><br>## 🚀 About Me  <br><br>- 🔭 Working on **AI Resume Analyzer** & **VR Atomic Structure Lab**  <br>- 🎮 Building immersive experiences using **Unity & Blender**  <br>- 🧠 Learning **Deep Learning, DSA & System Design**  <br>- 🤝 Open to collaboration on **AI + VR + Creative Tech Projects**  <br>- ⚡ Blending **Design + Development + AI**  <br><br>---<br><br>## 🧠 Tech Stack  <br><br>### 💻 Languages  <br><p><br><img src="https://skillicons.dev/icons?i=python"/><br></p><br><br>### ⚙️ Technologies  <br><p><br><img src="https://skillicons.dev/icons?i=git,github"/><br><img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/><br><img src="https://img.shields.io/badge/Deep%20Learning-0A0A0A?style=for-the-badge"/><br><img src="https://img.shields.io/badge/Data%20Structures-1E90FF?style=for-the-badge"/><br></p><br><br>### 🎮 Development  <br><p><br><img src="https://skillicons.dev/icons?i=unity,blender"/><br></p><br><br>### 🎨 Design  <br><p><br><img src="https://skillicons.dev/icons?i=figma"/><br><img src="https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge"/><br></p><br><br>---<br><br>## 📊 GitHub Analytics  <br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=adarsh7979s&show_icons=true&theme=radical&hide_border=true" height="165"/><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh7979s&theme=radical&hide_border=true" height="165"/><br></p><br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh7979s&layout=compact&theme=radical&hide_border=true"/><br></p><br><br>---<br><br>## 🚀 Featured Projects  <br><br>### 🔹 AI Resume Analyzer  <br>- AI system to analyze resumes & match with job descriptions  <br>- Improves hiring insights using intelligent filtering  <br><br>### 🔹 VR Atomic Structure Lab  <br>- Interactive VR environment built with Unity  <br>- Visualizes atomic structures for immersive learning  <br><br>### 🔹 VR IILM University  <br>- Virtual campus walkthrough  <br>- Built using Unity & Blender  <br><br>---<br><br>## 🎯 Current Focus  <br><br>- 🚀 Product-based companies preparation  <br>- 📈 Advanced DSA & problem solving  <br>- 🤖 Real-world AI + VR applications  <br><br>---<br><br>## 🌐 Connect  <br><br><p><br><a href="https://github.com/adarsh7979s"><br><img src="https://skillicons.dev/icons?i=github"/><br></a><br></p><br><br>---<br><br>## 🐍 Contribution Snake  <br><br><p align="center"><br><img src="https://github.com/adarsh7979s/adarsh7979s/blob/output/github-contribution-grid-snake.svg"/><br></p><br>
+# 👨‍💻 Adarsh Sharma  
+### 🚀 AI Developer | Unity Developer | Designer  
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:18sharmadh@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adarsh7979s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adarsh7979s&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh7979s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F79F&center=true&vCenter=true&width=700&lines=AI+%7C+Unity+%7C+Design;Building+Impactful+Tech+Projects;Future+Software+Engineer+%40+Top+Tech;Turning+Ideas+into+Reality" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adarsh7979s&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me  
+
+- 🔭 Working on **AI Resume Analyzer** & **VR Atomic Structure Lab**  
+- 🎮 Building immersive experiences using **Unity & Blender**  
+- 🧠 Learning **Deep Learning, DSA & System Design**  
+- 🤝 Open to collaboration on **AI + VR + Creative Tech Projects**  
+- ⚡ Blending **Design + Development + AI**  
+
+---
+
+## 🧠 Tech Stack  
+
+### 💻 Languages  
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+### ⚙️ Technologies  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures-1E90FF?style=for-the-badge"/>
+</p>
+
+### 🎮 Development  
+<p>
+<img src="https://skillicons.dev/icons?i=unity,blender"/>
+</p>
+
+### 🎨 Design  
+<p>
+<img src="https://skillicons.dev/icons?i=figma"/>
+<img src="https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarsh7979s&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh7979s&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh7979s&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔹 AI Resume Analyzer  
+- AI system to analyze resumes & match with job descriptions  
+- Improves hiring insights using intelligent filtering  
+
+### 🔹 VR Atomic Structure Lab  
+- Interactive VR environment built with Unity  
+- Visualizes atomic structures for immersive learning  
+
+### 🔹 VR IILM University  
+- Virtual campus walkthrough  
+- Built using Unity & Blender  
+
+---
+
+## 🎯 Current Focus  
+
+- 🚀 Product-based companies preparation  
+- 📈 Advanced DSA & problem solving  
+- 🤖 Real-world AI + VR applications  
+
+---
+
+## 🌐 Connect  
+
+<p>
+<a href="https://github.com/adarsh7979s">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+<img src="https://github.com/adarsh7979s/adarsh7979s/blob/output/github-contribution-grid-snake.svg"/>
+</p>
