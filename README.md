@@ -1,16 +1,99 @@
-## Hi there 👋
+# 👨‍💻 Adarsh Sharma  
+### 🚀 AI Developer | Unity Developer | Designer  
 
-<!--
-**adarsh7979s/adarsh7979s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F79F&center=true&vCenter=true&width=700&lines=AI+%7C+Unity+%7C+Design;Building+Impactful+Tech+Projects;Future+Software+Engineer+%40+Top+Tech;Turning+Ideas+into+Reality" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+- 🔭 Working on **AI Resume Analyzer** & **VR Atomic Structure Lab**  
+- 🎮 Building immersive experiences using **Unity & Blender**  
+- 🧠 Learning **Deep Learning, DSA & System Design**  
+- 🤝 Open to collaboration on **AI + VR + Creative Tech Projects**  
+- ⚡ Blending **Design + Development + AI**  
+
+---
+
+## 🧠 Tech Stack  
+
+### 💻 Languages  
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+### ⚙️ Technologies  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures-1E90FF?style=for-the-badge"/>
+</p>
+
+### 🎮 Development  
+<p>
+<img src="https://skillicons.dev/icons?i=unity,blender"/>
+</p>
+
+### 🎨 Design  
+<p>
+<img src="https://skillicons.dev/icons?i=figma"/>
+<img src="https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarsh7979s&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh7979s&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh7979s&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔹 AI Resume Analyzer  
+- AI system to analyze resumes & match with job descriptions  
+- Improves hiring insights using intelligent filtering  
+
+### 🔹 VR Atomic Structure Lab  
+- Interactive VR environment built with Unity  
+- Visualizes atomic structures for immersive learning  
+
+### 🔹 VR IILM University  
+- Virtual campus walkthrough  
+- Built using Unity & Blender  
+
+---
+
+## 🎯 Current Focus  
+
+- 🚀 Product-based companies preparation  
+- 📈 Advanced DSA & problem solving  
+- 🤖 Real-world AI + VR applications  
+
+---
+
+## 🌐 Connect  
+
+<p>
+<a href="https://github.com/adarsh7979s">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+<img src="https://github.com/adarsh7979s/adarsh7979s/blob/output/github-contribution-grid-snake.svg"/>
+</p>
