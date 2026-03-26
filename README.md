@@ -16,6 +16,29 @@
 - ⚡ Blending **Design + Development + AI**  
 
 ---
+## 💻 Tech Stack  
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity"/>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender"/>
+
+<img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma"/>
+<img src="https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures-1E90FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git"/>
+
+</p>
 
 ## 🧠 Tech Stack  
 
